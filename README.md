@@ -12,13 +12,7 @@ This project consists of a Python script to fetch the transcript of a YouTube vi
 
 ## Usage
 
-You can run the tool by executing the batch script:
-
-```bash
-.\transcript.bat
-```
-
-Alternatively, you can run the Python script directly:
+You can run the Python script directly:
 
 ```bash
 python transcript.py

@@ -11,3 +11,6 @@ env/
 
 # Environment variables
 .env
+
+# Local scripts
+transcript.bat
